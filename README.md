@@ -11,3 +11,4 @@ Copy the model files into your Oxidized model path (commonly `~/.config/oxidized
 ## Notes
 - These are intentionally minimal starter models.
 - Update prompts/commands to match your device CLI and policy.
+- Oxidized service restart may be required after adding new models.
